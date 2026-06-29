@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.h5
+*.keras
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.log
+*.png
+*.csv
+.DS_Store
